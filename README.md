@@ -1,4 +1,4 @@
-**Selenium+Pytest+Allure для негативного тестирования формы регистрации**
+**Selenium+Pytest+Allure для сравнения введенных данных с полученными**
 
 Этот проект демонстрирует использование Selenium, Pytest и Allure для написания тестa  на странице https://demoqa.com/text-box.
 
